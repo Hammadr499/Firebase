@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="documentID">Enter The Document ID</string>
+    <string name="enter_name_of_student">Enter Name of Student</string>
+    <string name="enter_roll_no">Enter Roll no</string>
+    <string name="enter_the_section">Enter The Section</string>
+    <string name="add">ADD</string>
+    <string name="display">Display Collection</string>
+    <string name="enter_the_collection_name">Enter The Collection name</string>
+    <string name="deletedocument">DeleteDocument</string>
+</resources>
